@@ -1,0 +1,2 @@
+class TwoplayerController < ApplicationController
+end
